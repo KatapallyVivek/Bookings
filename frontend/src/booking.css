@@ -1,0 +1,23 @@
+.Main {
+    background-color: rgb(232, 210, 113);
+    height: 35vw;
+    width: 30vw;
+    text-align: center;
+    border-radius: 30px;
+    border: 10px solid  grey;
+}
+.Main img {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    border: 3px solid black;
+}
+.Main button{
+    width: 150px;
+    height: 30px;
+    margin: 15px;
+    border-radius: 15px;
+    background-color: aliceblue;
+    cursor: pointer;
+    font-size: medium;
+}
